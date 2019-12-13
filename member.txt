@@ -1,0 +1,8 @@
+Songül,45
+Elif,40
+Banu,42
+Amaç,35
+Ali,29
+Veli,28
+Ahmet,51
+Mehmet,65
